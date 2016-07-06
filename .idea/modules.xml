@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NavMesh-Debugger.iml" filepath="$PROJECT_DIR$/.idea/modules/NavMesh-Debugger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NavMesh-Debugger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NavMesh-Debugger_main.iml" group="NavMesh-Debugger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NavMesh-Debugger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NavMesh-Debugger_test.iml" group="NavMesh-Debugger" />
+    </modules>
+  </component>
+</project>
